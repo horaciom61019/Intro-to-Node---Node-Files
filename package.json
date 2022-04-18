@@ -1,0 +1,19 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "Practice working with Node, NPM, and the file API. I'll be building a program similar to the standard UNIX utility, cat.",
+  "main": "step1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horaciom61019/Intro-to-Node---Node-Files.git"
+  },
+  "author": "Horacio Munoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horaciom61019/Intro-to-Node---Node-Files/issues"
+  },
+  "homepage": "https://github.com/horaciom61019/Intro-to-Node---Node-Files#readme"
+}
