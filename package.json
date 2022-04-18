@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/horaciom61019/Intro-to-Node---Node-Files/issues"
   },
-  "homepage": "https://github.com/horaciom61019/Intro-to-Node---Node-Files#readme"
+  "homepage": "https://github.com/horaciom61019/Intro-to-Node---Node-Files#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
 }
